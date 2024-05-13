@@ -1,0 +1,12 @@
+1. git init
+2. git add 'filename' or .
+3. git commit -m "commit message"
+
+To create new branch
+4. git branch 'branch name'
+
+Switch branch
+5. git checkout 'branch name'
+
+Merge branch with master branch
+6. git merge 'branch name'
