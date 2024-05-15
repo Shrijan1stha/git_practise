@@ -1,0 +1,10 @@
+Create ssh key
+1. github.com -> setting -> Connecting to github using ssh key
+2. Generating a new SSH key and adding it to the ssh-agent
+3. Generating a new ssh key
+4. open git bash
+5. copy link <ssh-keygen -t ed25519 -C "your_email@example.com">
+6. follow the link in (2)
+
+To pull the changes
+7. git pull

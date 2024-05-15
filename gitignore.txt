@@ -1,0 +1,2 @@
+yo file ma vako changes git le ignore garxa
+tara yo file .gitignore vanne file ma halnu parxa
